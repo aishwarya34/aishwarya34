@@ -23,7 +23,7 @@ class aishwarya {
     vector<string> pronouns = {"she", "her"};
     vector<string> code = {"C++", "Python", "C", "Java", "bash", "SQL", "Matlab", "TensorFlow", "Keras", "x86 Assembly", "LaTeX"};
     vector<string> database = {"SQLServer", "Oracle", "PostgreSQL", "Sqlite3", "MongoDB"};
-    vector<string> tools = {"Spring MVC", "Docker", "Git", "Tomcat Server", "NGINX"};
+    vector<string> tools = {"Tomcat Server", "NGINX", "Docker", "Git", "Spring MVC"};
   
 };
 
