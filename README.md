@@ -4,7 +4,7 @@
   
 </em></p>
 
-<p align="center">
+<p align="left">
 	<a href="https://github.com/aishwarya34"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/aishwarya-radhakrishnan-111031b2/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/aishwarya347/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
