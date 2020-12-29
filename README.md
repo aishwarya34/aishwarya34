@@ -14,7 +14,7 @@
 class aishwarya {
   public:
     vector<string> pronouns = {"she", "her"};
-    vector<string> code = {"C++", "Python", "C", "Java", "bash", "SQL, "Matlab", "TensorFlow", "Keras", "LaTeX", "x86 Assembly"};
+    vector<string> code = {"C++", "Python", "C", "Java", "bash", "SQL, "Matlab", "TensorFlow", "Keras", "x86 Assembly"};
     vector<string> database = {"SQLServer", "Oracle", "PostgreSQL", "Sqlite3", "MongoDB"};
     vector<string> tools = {"Spring MVC", "Docker", "Git", "Tomcat Server", "NGINX"};
   
