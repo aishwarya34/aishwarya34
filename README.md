@@ -4,7 +4,7 @@
   
 </em></p>
 
-[![Linkedin: aishwarya](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aishwarya-radhakrishnan-111031b2/)](https://www.linkedin.com/in/aishwarya-radhakrishnan-111031b2/)
+[![Linkedin: aishwarya](logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aishwarya-radhakrishnan-111031b2/)](https://www.linkedin.com/in/aishwarya-radhakrishnan-111031b2/)
 [![GitHub aishwarya34](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/aishwarya34)
 
 
