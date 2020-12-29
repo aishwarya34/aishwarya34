@@ -4,24 +4,27 @@
   
 </em></p>
 
-[![Linkedin: aishwarya](logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aishwarya-radhakrishnan-111031b2/)](https://www.linkedin.com/in/aishwarya-radhakrishnan-111031b2/)
-[![GitHub aishwarya34](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/aishwarya34)
-
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const thai = {
+```C++
+
+
+class aishwarya {
+  public:
+    vector<string> pronouns = {"she", "her"};
+    vector<string> code = {"C++", "Python", "C", "Java", "bash", "SQL, "Matlab", "TensorFlow", "Keras", "LaTeX", "x86 Assembly"};
+    vector<string> database = {"SQLServer", "Oracle", "PostgreSQL", "Sqlite3", "MongoDB"};
+    vector<string> tools = {"Spring MVC", "Docker", "Git", "Tomcat Server", "NGINX"};
+  
+};
+
+
+class thai = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 
