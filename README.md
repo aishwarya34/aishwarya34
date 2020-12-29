@@ -1,57 +1,31 @@
+<h2> Hi, I'm Aishwarya Radhakrishnan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/aishwarya-radhakrishnan-111031b2/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://github.com/akashkumar916"><img src="https://img.shields.io/badge/Akash %20Kumar-Welcomes%20You-007afb?style=for-the-badge&logo=hackaday" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:ak8427916@gmail.com?subject=Hello%20Akash,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-<p>
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=akashkumar916&theme=radical&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=33&hide_rank=true" alt="Akash Kumar's github stats"/>
-  
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkumar916&hide=html&show_icons=true&theme=tokyonight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Akash Kumar's github stats"/>
-</p>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-SKILLS-green?style=for-the-badge&logo=shikimori" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <br/>
-  <br/>
-  <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" />&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-SQL-informational?style=for-the-badge&logo=mysql&logoColor=ff0000" />&nbsp;&nbsp;&nbsp;&nbsp;
-<br/>
-  <img src="https://img.shields.io/badge/-DSA-black?style=for-the-badge&logo=ds-automobiles&logoColor=007afb" />&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/-Machine learning-black?style=for-the-badge" />&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/-Web Development-black?style=for-the-badge" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <br/>
-  <br/>
-   <img src="https://img.shields.io/badge/-Profiles Link-informational?style=for-the-badge&logo=peertube" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <br/>
-  <br/>
-   <a target="_blank"href="https://www.hackerrank.com/Jacckash_Akash/"><img src="https://img.shields.io/badge/Hackerrank-green?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a target="_blank"href="https://www.hackerearth.com/@akash1043"><img src="https://img.shields.io/badge/HackerEarth-black?style=for-the-badge&logo=hackerearth&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a target="_blank"href="https://leetcode.com/akash_kumar916/"> <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=Leetcode&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a target="_blank"href="https://www.codechef.com/users/jacckashakashk"> <img src="https://img.shields.io/badge/Codechef-black?style=for-the-badge&logo=Codechef&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-     <a target="_blank"href="https://www.kaggle.com/jacckashakash"> <img src="https://img.shields.io/badge/Kaggle-green?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <br/>
-  <br/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=akashkumar916.akashkumar916" />
-
-</p>
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
  
