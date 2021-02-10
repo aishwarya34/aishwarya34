@@ -24,6 +24,7 @@ class aishwarya {
     vector<string> code = {"C++", "Python", "C", "Java", "bash", "SQL", "Matlab", "TensorFlow", "Keras", "x86 Assembly", "LaTeX"};
     vector<string> database = {"SQLServer", "Oracle", "PostgreSQL", "Sqlite3", "MongoDB"};
     vector<string> tools = {"Tomcat Server", "NGINX", "Docker", "Git", "Spring MVC"};
+    vector<string> loves = {"Machine Learning", "Deep Learning", "web-services", "File System", "Databases"};
   
 };
 
